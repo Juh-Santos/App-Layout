@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Sistema desenvolvindo como atividade.
 
 ## Getting Started
 
